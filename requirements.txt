@@ -1,0 +1,5 @@
+#需要的依赖项
+flask_login
+flask_wtf
+csrf
+bootstrap
